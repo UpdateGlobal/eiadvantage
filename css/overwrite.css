@@ -1813,8 +1813,8 @@ Button
 .btn {
 	font-size: 13px;
 	line-height: 18px;
-	color:#333;
-	border:1px solid #fff;
+	/* color:#333; */
+	/* border:1px solid #fff; */
 	background-color:#fff;
 	text-transform:uppercase;
 	font-weight:700;
@@ -1832,7 +1832,7 @@ Button
 .btn:focus
 .btn:active{
 	background-color:#eef0f5;
-	border-color:#c4c5ca;
+	/* border-color:#c4c5ca; */
 }
 
 .btn.btn-default{

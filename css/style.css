@@ -416,7 +416,8 @@ Container
 .content-section-b {
     border-top: 1px solid #e7e7e7;
     border-bottom: 1px solid #e7e7e7;
-    padding: 90px 0;
+	padding: 90px 0;
+	background-color: #dde9f9;
 }
 
 .img-responsive {
@@ -425,9 +426,6 @@ Container
     height: auto
 }
 
-#form-dyn {
-    display: none;
-}
 #form-mue {
     display: none;
 }
@@ -452,13 +450,15 @@ Container
 }
 
 .green {
-	background-color: #9dc12fbe;
-	box-shadow: 0px 5px 0px 0px #9cc12f;
+	background-color: #006ab5c7;
+	box-shadow: 0px 5px 0px 0px #0068b5;
+	border: none;
 }
 
 .green:hover {
-	background-color: #E9024F;
-	box-shadow: 0px 5px 0px 0px rgba(233, 2, 79, 0.781);
+	background-color: #158e7cd0;
+	box-shadow: #158e7d;
+	border: none;
 }
 
 /* end da css for da buttons */
@@ -1023,7 +1023,6 @@ Container
 	text-transform:uppercase;
 	text-align:center;
 	padding:15px 20px;
-	vertical-align:midle;
     -ms-transform: rotate(270deg); /* IE 9 */
     -webkit-transform: rotate(270deg); /* Safari */
     transform: rotate(270deg); /* Standard syntax */
@@ -3784,7 +3783,7 @@ Process
 .puzzle-content{
 	position:relative;
 	display:block;
-	background-color:#3b3e4e;
+	background-color: #223c71;
 	padding:50px 30px 30px 40px;
 	border-radius:8px;
 }
@@ -5892,7 +5891,6 @@ Comments
 
 .grider{
     display: inline-block;
-	float:right;
 	margin-top:45px;
 }
 
@@ -7537,7 +7535,6 @@ Custom form
 
 .form-wrapp .input-inline .form-control{
 	display:inline;
-	width:60px;
 	margin-right:5px;
 }
 
@@ -8243,7 +8240,7 @@ footer.sm-footer h6{
 
 footer .widget{
 	display:block;
-	margin:0 0 30px 0;
+	margin:0 0 10px 0;
 	clear:both;
 }
 
