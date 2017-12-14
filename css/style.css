@@ -488,11 +488,11 @@ Container
 .contain-wrapp {
 	display: block;
 	position: relative;
-	padding: 110px 0 60px 0;
+	padding: 106px 0 60px 0;
 }
 
 .gray-container {
-	background: #eff4f7;
+	/* background: #eff4f7; */
 	color: #6b6b6b;
 }
 

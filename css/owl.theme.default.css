@@ -77,7 +77,7 @@
 }
 	
 .owl-theme .owl-nav [class*='owl-next']:after {
-	content: "\f054";
+	 content: "\f054"; 
 }
 
 .owl-theme.nav-sm .owl-nav [class*='owl-prev']:after {
@@ -85,7 +85,7 @@
 }
 
 .owl-theme.nav-sm .owl-nav [class*='owl-next']:after {
-	content: "\f061";
+	 content: "\f061"; 
 }
 
 .owl-theme .owl-nav [class*='owl-prev'] {

@@ -8,12 +8,12 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Bacotna is a truly multi purpose template, coming with 50+ ready-to-use Homepages & 100+ HTML Files in one Package. Build whatever you like with this Template.Be it Business, Corporate, Medical, Travel, Construction, Real Estate, Magazine, Portfolio, Agency, Hotel, Yoga, Hosting, Photography, Ecommerce, Industry or Product launch, just everything is possible with bacotna.">
+	<meta name="description" content="Just everything is possible with Eiadvantage.">
 	<meta name="keywords" content=" app, business, construction, corporate, creative, ecommerce, hosting, hotel, magazine, medical, multipurpose, photography, real estate, restaurant, yoga">
 	<meta name="robots" content="index,follow">
 	<link rel="icon" href="ico/favicon.png">
 
-	<title>Bacotna Creative Agency and Corporate Template</title>
+	<title>Eiadvantage</title>
 
 	<!-- Bootstrap Core CSS -->
 	<link href="css/bootstrap.min.css" rel="stylesheet">
@@ -632,314 +632,318 @@
 					</div>
 				</div>
 			</div>
-			<div class="row">
-
-			</div>
 		</div>
 	</div>
 
 	<!-- End contain wrapp -->
 
 	<!-- Start parallax -->
-	<div class="row">
-		<div class="col-md-12 text-center">
-			<div class="single-line-heading">
-				<h4 style="font-family: 'WorkSans-SemiBold';">Testimonios</h4>
+	<div class="contain-wrapp" style="padding-top: 0px !important;">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 text-center">
+					<div class="single-line-heading">
+						<h4 style="font-family: 'WorkSans-SemiBold';">Testimonios</h4>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-12 owl-column-wrapp">
+					<div class="recent-3column owl-carousel owl-theme">
+						<!-- Start item 1 -->
+						<div class="item">
+							<div class="testimoni-wrapp">
+								<div class="testimoni">
+									<blockquote>
+										<p style="font-family: 'WorkSans-Medium';">
+											Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+										</p>
+									</blockquote>
+								</div>
+								<div class="testimoni-author">
+									<a href="#" class="avatar">
+										<img src="img/testimoni/avatar01.jpg" alt="" />
+									</a>
+									<h6 style="font-family: 'WorkSans-SemiBold';">Edah
+										<span>serbo</span>
+									</h6>
+									<p>Owner -
+										<a href="#">update.pe</a>
+									</p>
+								</div>
+							</div>
+						</div>
+						<!-- End item 1 -->
+
+						<!-- Start item 2 -->
+						<div class="item">
+							<div class="testimoni-wrapp">
+								<div class="testimoni">
+									<blockquote>
+										<p style="font-family: 'WorkSans-Medium';">
+											Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+										</p>
+									</blockquote>
+								</div>
+								<div class="testimoni-author">
+									<a href="#" class="avatar">
+										<img src="img/testimoni/avatar02.jpg" alt="" />
+									</a>
+									<h6 style="font-family: 'WorkSans-SemiBold';">Balbino
+										<span>Gamboa</span>
+									</h6>
+									<p>CFO -
+										<a href="#">update.pe</a>
+									</p>
+								</div>
+							</div>
+						</div>
+						<!-- End item 2 -->
+
+						<!-- Start item 3 -->
+						<div class="item">
+							<div class="testimoni-wrapp">
+								<div class="testimoni">
+									<blockquote>
+										<p style="font-family: 'WorkSans-Medium';">
+											Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+										</p>
+									</blockquote>
+								</div>
+								<div class="testimoni-author">
+									<a href="#" class="avatar">
+										<img src="img/testimoni/avatar03.jpg" alt="" />
+									</a>
+									<h6 style="font-family: 'WorkSans-SemiBold';">Balbino
+										<span>Gamboa</span>
+									</h6>
+									<p>CEO -
+										<a href="#">update.pe</a>
+									</p>
+								</div>
+							</div>
+						</div>
+						<!-- End item 3 -->
+
+						<!-- Start item 4 -->
+						<div class="item">
+							<div class="testimoni-wrapp">
+								<div class="testimoni">
+									<blockquote>
+										<p style="font-family: 'WorkSans-Medium';">
+											Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+										</p>
+									</blockquote>
+								</div>
+								<div class="testimoni-author">
+									<a href="#" class="avatar">
+										<img src="img/testimoni/avatar04.jpg" alt="" />
+									</a>
+									<h6 style="font-family: 'WorkSans-SemiBold';">Neng
+										<span>ebrod</span>
+									</h6>
+									<p>Manager -
+										<a href="#">update.pe</a>
+									</p>
+								</div>
+							</div>
+						</div>
+						<!-- End item 4 -->
+
+						<!-- Start item 5 -->
+						<div class="item">
+							<div class="testimoni-wrapp">
+								<div class="testimoni">
+									<blockquote>
+										<p style="font-family: 'WorkSans-Medium';">
+											Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+										</p>
+									</blockquote>
+								</div>
+								<div class="testimoni-author">
+									<a href="#" class="avatar">
+										<img src="img/testimoni/avatar05.jpg" alt="" />
+									</a>
+									<h6 style="font-family: 'WorkSans-SemiBold';">Balbino
+										<span>Gamboa</span>
+									</h6>
+									<p>Designer -
+										<a href="#">update.pe</a>
+									</p>
+								</div>
+							</div>
+						</div>
+						<!-- End item 5 -->
+
+						<!-- Start item 6 -->
+						<div class="item">
+							<div class="testimoni-wrapp">
+								<div class="testimoni">
+									<blockquote>
+										<p style="font-family: 'WorkSans-Medium';">
+											Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+										</p>
+									</blockquote>
+								</div>
+								<div class="testimoni-author">
+									<a href="#" class="avatar">
+										<img src="img/testimoni/avatar06.jpg" alt="" />
+									</a>
+									<h6 style="font-family: 'WorkSans-SemiBold';">Balbino
+										<span>Gamboa</span>
+									</h6>
+									<p>Designer -
+										<a href="#">update.pe</a>
+									</p>
+								</div>
+							</div>
+						</div>
+						<!-- End item 6 -->
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
-	<div class="row">
-		<div class="col-md-12 owl-column-wrapp">
-			<div class="recent-3column owl-carousel owl-theme">
-				<!-- Start item 1 -->
-				<div class="item">
-					<div class="testimoni-wrapp">
-						<div class="testimoni">
-							<blockquote>
-								<p style="font-family: 'WorkSans-Medium';">
-								Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-								</p>
-							</blockquote>
-						</div>
-						<div class="testimoni-author">
-							<a href="index-corporate-alt3.html#" class="avatar">
-								<img src="img/testimoni/avatar01.jpg" alt="" />
-							</a>
-							<h6 style="font-family: 'WorkSans-SemiBold';">Edah
-								<span>serbo</span>
-							</h6>
-							<p>Owner -
-								<a href="index-corporate-alt3.html#">99webpage.com</a>
-							</p>
-						</div>
-					</div>
-				</div>
-				<!-- End item 1 -->
 
-				<!-- Start item 2 -->
-				<div class="item">
-					<div class="testimoni-wrapp">
-						<div class="testimoni">
-							<blockquote>
-								<p style="font-family: 'WorkSans-Medium';">
-								Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-								</p>
-							</blockquote>
-						</div>
-						<div class="testimoni-author">
-							<a href="index-corporate-alt3.html#" class="avatar">
-								<img src="img/testimoni/avatar02.jpg" alt="" />
-							</a>
-							<h6 style="font-family: 'WorkSans-SemiBold';">Asep
-								<span>jebot</span>
-							</h6>
-							<p>CFO -
-								<a href="#">update.pe</a>
-							</p>
-						</div>
-					</div>
-				</div>
-				<!-- End item 2 -->
 
-				<!-- Start item 3 -->
-				<div class="item">
-					<div class="testimoni-wrapp">
-						<div class="testimoni">
-							<blockquote>
-								<p style="font-family: 'WorkSans-Medium';">
-								Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-								</p>
-							</blockquote>
-						</div>
-						<div class="testimoni-author">
-							<a href="index-corporate-alt3.html#" class="avatar">
-								<img src="img/testimoni/avatar03.jpg" alt="" />
-							</a>
-							<h6 style="font-family: 'WorkSans-SemiBold';">Ujang
-								<span>bako</span>
-							</h6>
-							<p>CEO -
-								<a href="#">update.pe</a>
-							</p>
-						</div>
-					</div>
-				</div>
-				<!-- End item 3 -->
-
-				<!-- Start item 4 -->
-				<div class="item">
-					<div class="testimoni-wrapp">
-						<div class="testimoni">
-							<blockquote>
-								<p style="font-family: 'WorkSans-Medium';">
-								Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-								</p>
-							</blockquote>
-						</div>
-						<div class="testimoni-author">
-							<a href="index-corporate-alt3.html#" class="avatar">
-								<img src="img/testimoni/avatar04.jpg" alt="" />
-							</a>
-							<h6 style="font-family: 'WorkSans-SemiBold';">Neng
-								<span>ebrod</span>
-							</h6>
-							<p>Manager -
-								<a href="#">update.pe</a>
-							</p>
-						</div>
-					</div>
-				</div>
-				<!-- End item 4 -->
-
-				<!-- Start item 5 -->
-				<div class="item">
-					<div class="testimoni-wrapp">
-						<div class="testimoni">
-							<blockquote>
-								<p style="font-family: 'WorkSans-Medium';">
-								Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-								</p>
-							</blockquote>
-						</div>
-						<div class="testimoni-author">
-							<a href="index-corporate-alt3.html#" class="avatar">
-								<img src="img/testimoni/avatar05.jpg" alt="" />
-							</a>
-							<h6 style="font-family: 'WorkSans-SemiBold';">Entis
-								<span>kutik</span>
-							</h6>
-							<p>Designer -
-								<a href="index-corporate-alt3.html#">update.pe</a>
-							</p>
-						</div>
-					</div>
-				</div>
-				<!-- End item 5 -->
-
-				<!-- Start item 6 -->
-				<div class="item">
-					<div class="testimoni-wrapp">
-						<div class="testimoni">
-							<blockquote>
-								<p style="font-family: 'WorkSans-Medium';">
-								Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-								</p>
-							</blockquote>
-						</div>
-						<div class="testimoni-author">
-							<a href="index-corporate-alt3.html#" class="avatar">
-								<img src="img/testimoni/avatar06.jpg" alt="" />
-							</a>
-							<h6 style="font-family: 'WorkSans-SemiBold';">Dadang
-								<span>bool</span>
-							</h6>
-							<p>Designer -
-								<a href="index-corporate-alt3.html#">update.pe</a>
-							</p>
-						</div>
-					</div>
-				</div>
-				<!-- End item 6 -->
-			</div>
-		</div>
-	</div>
-	</div>
-	</div>
 	<!-- End contain wrapp -->
 
 	<!-- Start contain wrapp -->
-	<div class="contain-wrapp gray-container padding-bot40">
-		<div class="row">
-			<div class="col-md-12 text-center">
-				<div class="single-line-heading">
-					<h5 style="font-family: 'WorkSans-SemiBold';">Nuestros Clientes</h5>
+	<div class="contain-wrapp padding-bot30" style="padding-top: 30px !important;">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 text-center">
+					<div class="single-line-heading">
+						<h5 style="font-family: 'WorkSans-SemiBold';font-size: 27px;">Nuestros Clientes</h5>
+					</div>
 				</div>
 			</div>
-		</div>
-		<div class="row">
-			<div class="col-md-12 owl-column-wrapp">
-				<div class="clients owl-carousel owl-theme nav-sm">
-					<!-- Start item 1 -->
-					<div class="item">
-						<div class="clients-logo">
-							<a href="index.html#" class="logo-current">
-								<img src="img/clients/logo01-gray.png" alt="" />
-							</a>
-							<a href="index.html#" class="logo-hover">
-								<img src="img/clients/logo01.png" alt="" />
-							</a>
+			<div class="row">
+				<div class="col-md-12 owl-column-wrapp">
+					<div class="clients owl-carousel owl-theme nav-sm">
+						<!-- Start item 1 -->
+						<div class="item">
+							<div class="clients-logo">
+								<a href="index.html#" class="logo-current">
+									<img src="img/clients/logo01-gray.png" alt="" />
+								</a>
+								<a href="index.html#" class="logo-hover">
+									<img src="img/clients/logo01.png" alt="" />
+								</a>
+							</div>
 						</div>
-					</div>
-					<!-- End item 1 -->
+						<!-- End item 1 -->
 
-					<!-- Start item 2 -->
-					<div class="item">
-						<div class="clients-logo">
-							<a href="index.html#" class="logo-current">
-								<img src="img/clients/logo02-gray.png" alt="" />
-							</a>
-							<a href="index.html#" class="logo-hover">
-								<img src="img/clients/logo02.png" alt="" />
-							</a>
+						<!-- Start item 2 -->
+						<div class="item">
+							<div class="clients-logo">
+								<a href="index.html#" class="logo-current">
+									<img src="img/clients/logo02-gray.png" alt="" />
+								</a>
+								<a href="index.html#" class="logo-hover">
+									<img src="img/clients/logo02.png" alt="" />
+								</a>
+							</div>
 						</div>
-					</div>
-					<!-- End item 2 -->
+						<!-- End item 2 -->
 
-					<!-- Start item 3 -->
-					<div class="item">
-						<div class="clients-logo">
-							<a href="index.html#" class="logo-current">
-								<img src="img/clients/logo03-gray.png" alt="" />
-							</a>
-							<a href="index.html#" class="logo-hover">
-								<img src="img/clients/logo03.png" alt="" />
-							</a>
+						<!-- Start item 3 -->
+						<div class="item">
+							<div class="clients-logo">
+								<a href="index.html#" class="logo-current">
+									<img src="img/clients/logo03-gray.png" alt="" />
+								</a>
+								<a href="index.html#" class="logo-hover">
+									<img src="img/clients/logo03.png" alt="" />
+								</a>
+							</div>
 						</div>
-					</div>
-					<!-- End item 3 -->
+						<!-- End item 3 -->
 
-					<!-- Start item 4 -->
-					<div class="item">
-						<div class="clients-logo">
-							<a href="index.html#" class="logo-current">
-								<img src="img/clients/logo04-gray.png" alt="" />
-							</a>
-							<a href="index.html#" class="logo-hover">
-								<img src="img/clients/logo04.png" alt="" />
-							</a>
+						<!-- Start item 4 -->
+						<div class="item">
+							<div class="clients-logo">
+								<a href="index.html#" class="logo-current">
+									<img src="img/clients/logo04-gray.png" alt="" />
+								</a>
+								<a href="index.html#" class="logo-hover">
+									<img src="img/clients/logo04.png" alt="" />
+								</a>
+							</div>
 						</div>
-					</div>
-					<!-- End item 4 -->
+						<!-- End item 4 -->
 
-					<!-- Start item 5 -->
-					<div class="item">
-						<div class="clients-logo">
-							<a href="index.html#" class="logo-current">
-								<img src="img/clients/logo05-gray.png" alt="" />
-							</a>
-							<a href="index.html#" class="logo-hover">
-								<img src="img/clients/logo05.png" alt="" />
-							</a>
+						<!-- Start item 5 -->
+						<div class="item">
+							<div class="clients-logo">
+								<a href="index.html#" class="logo-current">
+									<img src="img/clients/logo05-gray.png" alt="" />
+								</a>
+								<a href="index.html#" class="logo-hover">
+									<img src="img/clients/logo05.png" alt="" />
+								</a>
+							</div>
 						</div>
-					</div>
-					<!-- End item 5 -->
+						<!-- End item 5 -->
 
-					<!-- Start item 6 -->
-					<div class="item">
-						<div class="clients-logo">
-							<a href="index.html#" class="logo-current">
-								<img src="img/clients/logo06-gray.png" alt="" />
-							</a>
-							<a href="index.html#" class="logo-hover">
-								<img src="img/clients/logo06.png" alt="" />
-							</a>
+						<!-- Start item 6 -->
+						<div class="item">
+							<div class="clients-logo">
+								<a href="index.html#" class="logo-current">
+									<img src="img/clients/logo06-gray.png" alt="" />
+								</a>
+								<a href="index.html#" class="logo-hover">
+									<img src="img/clients/logo06.png" alt="" />
+								</a>
+							</div>
 						</div>
-					</div>
-					<!-- End item 6 -->
+						<!-- End item 6 -->
 
-					<!-- Start item 7 -->
-					<div class="item">
-						<div class="clients-logo">
-							<a href="index.html#" class="logo-current">
-								<img src="img/clients/logo07-gray.png" alt="" />
-							</a>
-							<a href="index.html#" class="logo-hover">
-								<img src="img/clients/logo07.png" alt="" />
-							</a>
+						<!-- Start item 7 -->
+						<div class="item">
+							<div class="clients-logo">
+								<a href="index.html#" class="logo-current">
+									<img src="img/clients/logo07-gray.png" alt="" />
+								</a>
+								<a href="index.html#" class="logo-hover">
+									<img src="img/clients/logo07.png" alt="" />
+								</a>
+							</div>
 						</div>
-					</div>
-					<!-- End item 7 -->
+						<!-- End item 7 -->
 
-					<!-- Start item 8 -->
-					<div class="item">
-						<div class="clients-logo">
-							<a href="index.html#" class="logo-current">
-								<img src="img/clients/logo08-gray.png" alt="" />
-							</a>
-							<a href="index.html#" class="logo-hover">
-								<img src="img/clients/logo08.png" alt="" />
-							</a>
+						<!-- Start item 8 -->
+						<div class="item">
+							<div class="clients-logo">
+								<a href="index.html#" class="logo-current">
+									<img src="img/clients/logo08-gray.png" alt="" />
+								</a>
+								<a href="index.html#" class="logo-hover">
+									<img src="img/clients/logo08.png" alt="" />
+								</a>
+							</div>
 						</div>
-					</div>
-					<!-- End item 8 -->
+						<!-- End item 8 -->
 
-					<!-- Start item 9 -->
-					<div class="item">
-						<div class="clients-logo">
-							<a href="index.html#" class="logo-current">
-								<img src="img/clients/logo09-gray.png" alt="" />
-							</a>
-							<a href="index.html#" class="logo-hover">
-								<img src="img/clients/logo09.png" alt="" />
-							</a>
+						<!-- Start item 9 -->
+						<div class="item">
+							<div class="clients-logo">
+								<a href="index.html#" class="logo-current">
+									<img src="img/clients/logo09-gray.png" alt="" />
+								</a>
+								<a href="index.html#" class="logo-hover">
+									<img src="img/clients/logo09.png" alt="" />
+								</a>
+							</div>
 						</div>
+						<!-- End item 9 -->
 					</div>
-					<!-- End item 9 -->
 				</div>
 			</div>
 		</div>
 	</div>
 	</div>
+
 	<!-- End contain wrapp -->
 
 	<!-- Start footer -->
@@ -960,7 +964,7 @@
 						<div class="col-md-3 col-sm-6">
 							<div class="widget">
 								<h5>
-									<span>Bacotna</span> services</h5>
+									<span>Eiadvantage</span> services</h5>
 								<ul class="link-list full">
 									<li>
 										<a href="index-corporate-alt14.html#">About us</a>

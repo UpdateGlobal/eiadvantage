@@ -32,7 +32,7 @@ CSS structure
 Typography
 =========================== */
 html,body {
-    width:100%;
+    width: auto;
     height: auto;
     margin:0;
     padding:0;
@@ -94,12 +94,12 @@ h3{
 }
 
 h4{
-	font-size:24px;
+	font-size: 27px;
 	line-height:36px;
 }
 
 h5{
-	font-size:18px;
+	font-size: 20px;
 	line-height:28px;
 }
 
