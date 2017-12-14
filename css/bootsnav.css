@@ -703,11 +703,11 @@ body.on-side .wrap-sticky nav.navbar.bootsnav.sticked{
     
     nav.navbar.bootsnav ul.nav > li > a{
 		border-top:3px solid transparent;
-        padding: 27px 0 26px 0;
+		/* padding: 27px 0 26px 0; */
 		margin-left:15px;
 		margin-right:15px;
-        font-weight: 400;
-    }
+		font-weight: 400;
+		}
 
 	nav.navbar.bordered-link.bootsnav .attr-nav{
 		margin-top:15px;

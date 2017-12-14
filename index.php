@@ -159,7 +159,6 @@
 									</li>
 								</ul>
 							</li>
-							<a href="index-corporate-alt1.html#" class="dropdown-toggle" data-toggle="dropdown">Dropdown</a>
 							<ul class="dropdown-menu">
 								<li>
 									<a href="index-corporate-alt1.html#">Menu alt</a>
@@ -809,7 +808,7 @@
 	<!-- End contain wrapp -->
 
 	<!-- Start contain wrapp -->
-	<div class="contain-wrapp padding-bot30" style="padding-top: 30px !important;">
+	<div class="contain-wrapp padding-bot30" style="padding-top: 30px !important; background-color: #f5f0f0;">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12 text-center">
