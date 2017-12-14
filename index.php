@@ -488,19 +488,19 @@
 					<div class="tp-caption cap-boxed Bgtransparent-primary" id="slide-1-layer-1" data-x="left" data-hoffset="['60','60','60','20']"
 					    data-y="top" data-voffset="['200','175','135','65']" data-width="['auto','auto','auto','auto']" data-height="['auto','auto','auto','auto']"
 					    data-transform_idle="o:1;" data-transform_in="x:-50px;opacity:0;s:2000;e:Power3.easeOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;"
-					    data-textAlign="['left','left','left','left']" data-whitespace="nowrap" data-type="text" data-fontsize="['24','18','14','12']"
+					    data-textAlign="['left','left','left','left']" data-whitespace="nowrap" data-type="text" data-fontsize="['36','18','14','12']"
 					    data-lineheight="['36','24','18','14']" data-paddingtop="[10,10,10,10]" data-paddingright="[10,10,10,10]" data-paddingbottom="[10,10,10,10]"
 					    data-paddingleft="[10,10,10,10]" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on"
-					    style="z-index: 5; font-weight:700;white-space: nowrap;">Negocios Innovadores
+					    style="z-index: 5; font-weight:700;white-space: nowrap;font-family: 'WorkSans-Medium';">Negocios Innovadores
 					</div>
 
 					<!-- LAYER NR. 2 -->
 					<div class="tp-caption white-text" id="slide-1-layer-2" data-x="left" data-hoffset="['60','60','60','20']" data-y="top" data-voffset="['260','225','180','105']"
 					    data-width="['780','630','430','350']" data-height="['auto','auto','auto','auto']" data-transform_idle="o:1;" data-transform_in="x:-50px;opacity:0;s:2000;e:Power3.easeOut;"
 					    data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-textAlign="['left','left','left','left']"
-					    data-whitespace="normal" data-type="text" data-fontsize="['32','24','18','14']" data-lineheight="['32','24','18','14']"
+					    data-whitespace="normal" data-type="text" data-fontsize="['60','24','18','14']" data-lineheight="['32','24','18','14']"
 					    data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-					    data-start="1500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 5; ;white-space: normal;">Inteligencia Emocional
+					    data-start="1500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 5; ;white-space: normal;font-family: 'WorkSans-SemiBold';">Inteligencia Emocional
 					</div>
 				</li>
 			</ul>
@@ -516,8 +516,8 @@
 					<img class="img-responsive img-rounded" src="img/courier/img02.jpg" alt="">
 				</div>
 				<div class="col-sm-6 wow fadeInLeftBig" data-animation-delay="200">
-					<h3 class="section-heading">¿Porqué Inteligencia Emocional?</h3>
-					<p class="lead" style="text-align:justify">
+					<h3 class="section-heading" style="text-align:justify;font-family: 'WorkSans-Medium';">¿Porqué Inteligencia Emocional?</h3>
+					<p class="lead" style="text-align:justify;font-family: 'WorkSans-Light';">
 						Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 						Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
 						irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
@@ -538,14 +538,14 @@
 				</div>
 				<div class="col-sm-6 wow fadeInLeftBig" data-animation-delay="200">
 					<img style="width: 150px;height: 95px;" src="img/logos/logo3.jpg" class="logo" alt="">
-					<p class="lead" style="text-align:justify">
+					<p class="lead" style="text-align:justify;font-family: 'WorkSans-Light';">
 						Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 						Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
 						irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
 						cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 					</p>
 					<p>
-						<a class="btn btn-embossed btn-primary" id="buttom-mue" role="button">@lang('messages.vdetails')</a>
+						<a class="btn btn-embossed btn-primary" id="buttom-mue" role="button" style="font-family: 'WorkSans-Medium';">+ &nbsp Leer más</a>
 					</p>
 					<!-- Form oc2-->
 
@@ -553,7 +553,7 @@
 			</div>
 			<form id="form-mue" action="">
 				<div class="sub-title lead3">Prueba</div>
-				<p class="descp" style="text-align:justify">
+				<p class="descp" style="text-align:justify;font-family: 'WorkSans-Light';">
 					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 					Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
 					irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
@@ -572,44 +572,44 @@
 					<ul class="process-puzzle">
 						<li>
 							<div class="puzzle-content default-bg">
-								<span class="numeric">01</span>
 								<div class="puzzle-body">
-									<h5>Web design</h5>
-									<p>
-										Dicta ponderum repudiandae et nec, id audire reprehendunt ius. Cu sea graece facilisi.
+									<h5 style="font-family: 'WorkSans-Bold';">Lorem ipsum dolor</h5>
+									<p style="font-family: 'WorkSans-Light';">
+										Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+										Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 									</p>
 								</div>
 							</div>
 						</li>
 						<li>
 							<div class="puzzle-content primary-bg">
-								<span class="numeric">02</span>
 								<div class="puzzle-body">
-									<h5>Graphic design</h5>
-									<p>
-										Dicta ponderum repudiandae et nec, id audire reprehendunt ius. Cu sea graece facilisi.
+									<h5 style="font-family: 'WorkSans-Bold';">Lorem ipsum dolor</h5>
+									<p style="font-family: 'WorkSans-Light';">
+										Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+										Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 									</p>
 								</div>
 							</div>
 						</li>
 						<li>
 							<div class="puzzle-content jaffa-bg">
-								<span class="numeric">03</span>
 								<div class="puzzle-body">
-									<h5>Font design</h5>
-									<p>
-										Dicta ponderum repudiandae et nec, id audire reprehendunt ius. Cu sea graece facilisi.
+									<h5 style="font-family: 'WorkSans-Bold';">Lorem ipsum dolor</h5>
+									<p style="font-family: 'WorkSans-Light';">
+										Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+										Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 									</p>
 								</div>
 							</div>
 						</li>
 						<li>
 							<div class="puzzle-content picton-bg">
-								<span class="numeric">04</span>
 								<div class="puzzle-body">
-									<h5>Wordpress theme</h5>
-									<p>
-										Dicta ponderum repudiandae et nec, id audire reprehendunt ius. Cu sea graece facilisi.
+									<h5 style="font-family: 'WorkSans-Bold';">Lorem ipsum dolor</h5>
+									<p style="font-family: 'WorkSans-Light';">
+										Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+										Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 									</p>
 								</div>
 							</div>
@@ -624,7 +624,7 @@
 							<div id="buttons">
 								<br>
 								<div id="buttons">
-									<a href="#" class="btn green">Contactanos</a>
+									<a style="font-family: 'WorkSans-Medium';" href="#" class="btn green">Contactanos</a>
 									</br>
 								</div>
 							</div>
@@ -644,7 +644,7 @@
 	<div class="row">
 		<div class="col-md-12 text-center">
 			<div class="single-line-heading">
-				<h4>Testimonios</h4>
+				<h4 style="font-family: 'WorkSans-SemiBold';">Testimonios</h4>
 			</div>
 		</div>
 	</div>
@@ -656,8 +656,8 @@
 					<div class="testimoni-wrapp">
 						<div class="testimoni">
 							<blockquote>
-								<p>
-									Cu nec salutandi voluptatibus. Ceteros definitionem ad ius, ut eam unum volutpat, omnium gloriatur te mei.
+								<p style="font-family: 'WorkSans-Medium';">
+								Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 								</p>
 							</blockquote>
 						</div>
@@ -665,7 +665,7 @@
 							<a href="index-corporate-alt3.html#" class="avatar">
 								<img src="img/testimoni/avatar01.jpg" alt="" />
 							</a>
-							<h6>Edah
+							<h6 style="font-family: 'WorkSans-SemiBold';">Edah
 								<span>serbo</span>
 							</h6>
 							<p>Owner -
@@ -681,8 +681,8 @@
 					<div class="testimoni-wrapp">
 						<div class="testimoni">
 							<blockquote>
-								<p>
-									Cu nec salutandi voluptatibus. Ceteros definitionem ad ius, ut eam unum volutpat, omnium gloriatur te mei.
+								<p style="font-family: 'WorkSans-Medium';">
+								Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 								</p>
 							</blockquote>
 						</div>
@@ -690,11 +690,11 @@
 							<a href="index-corporate-alt3.html#" class="avatar">
 								<img src="img/testimoni/avatar02.jpg" alt="" />
 							</a>
-							<h6>Asep
+							<h6 style="font-family: 'WorkSans-SemiBold';">Asep
 								<span>jebot</span>
 							</h6>
 							<p>CFO -
-								<a href="index-corporate-alt3.html#">99webpage.com</a>
+								<a href="#">update.pe</a>
 							</p>
 						</div>
 					</div>
@@ -706,8 +706,8 @@
 					<div class="testimoni-wrapp">
 						<div class="testimoni">
 							<blockquote>
-								<p>
-									Cu nec salutandi voluptatibus. Ceteros definitionem ad ius, ut eam unum volutpat, omnium gloriatur te mei.
+								<p style="font-family: 'WorkSans-Medium';">
+								Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 								</p>
 							</blockquote>
 						</div>
@@ -715,11 +715,11 @@
 							<a href="index-corporate-alt3.html#" class="avatar">
 								<img src="img/testimoni/avatar03.jpg" alt="" />
 							</a>
-							<h6>Ujang
+							<h6 style="font-family: 'WorkSans-SemiBold';">Ujang
 								<span>bako</span>
 							</h6>
 							<p>CEO -
-								<a href="index-corporate-alt3.html#">99webpage.com</a>
+								<a href="#">update.pe</a>
 							</p>
 						</div>
 					</div>
@@ -731,8 +731,8 @@
 					<div class="testimoni-wrapp">
 						<div class="testimoni">
 							<blockquote>
-								<p>
-									Cu nec salutandi voluptatibus. Ceteros definitionem ad ius, ut eam unum volutpat, omnium gloriatur te mei.
+								<p style="font-family: 'WorkSans-Medium';">
+								Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 								</p>
 							</blockquote>
 						</div>
@@ -740,11 +740,11 @@
 							<a href="index-corporate-alt3.html#" class="avatar">
 								<img src="img/testimoni/avatar04.jpg" alt="" />
 							</a>
-							<h6>Neng
+							<h6 style="font-family: 'WorkSans-SemiBold';">Neng
 								<span>ebrod</span>
 							</h6>
 							<p>Manager -
-								<a href="index-corporate-alt3.html#">99webpage.com</a>
+								<a href="#">update.pe</a>
 							</p>
 						</div>
 					</div>
@@ -756,8 +756,8 @@
 					<div class="testimoni-wrapp">
 						<div class="testimoni">
 							<blockquote>
-								<p>
-									Cu nec salutandi voluptatibus. Ceteros definitionem ad ius, ut eam unum volutpat, omnium gloriatur te mei.
+								<p style="font-family: 'WorkSans-Medium';">
+								Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 								</p>
 							</blockquote>
 						</div>
@@ -765,11 +765,11 @@
 							<a href="index-corporate-alt3.html#" class="avatar">
 								<img src="img/testimoni/avatar05.jpg" alt="" />
 							</a>
-							<h6>Entis
+							<h6 style="font-family: 'WorkSans-SemiBold';">Entis
 								<span>kutik</span>
 							</h6>
 							<p>Designer -
-								<a href="index-corporate-alt3.html#">99webpage.com</a>
+								<a href="index-corporate-alt3.html#">update.pe</a>
 							</p>
 						</div>
 					</div>
@@ -781,8 +781,8 @@
 					<div class="testimoni-wrapp">
 						<div class="testimoni">
 							<blockquote>
-								<p>
-									Cu nec salutandi voluptatibus. Ceteros definitionem ad ius, ut eam unum volutpat, omnium gloriatur te mei.
+								<p style="font-family: 'WorkSans-Medium';">
+								Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 								</p>
 							</blockquote>
 						</div>
@@ -790,11 +790,11 @@
 							<a href="index-corporate-alt3.html#" class="avatar">
 								<img src="img/testimoni/avatar06.jpg" alt="" />
 							</a>
-							<h6>Dadang
+							<h6 style="font-family: 'WorkSans-SemiBold';">Dadang
 								<span>bool</span>
 							</h6>
 							<p>Designer -
-								<a href="index-corporate-alt3.html#">99webpage.com</a>
+								<a href="index-corporate-alt3.html#">update.pe</a>
 							</p>
 						</div>
 					</div>
@@ -812,7 +812,7 @@
 		<div class="row">
 			<div class="col-md-12 text-center">
 				<div class="single-line-heading">
-					<h5>Nuestros Clientes</h5>
+					<h5 style="font-family: 'WorkSans-SemiBold';">Nuestros Clientes</h5>
 				</div>
 			</div>
 		</div>
@@ -1040,7 +1040,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-6">
-						<p>2017 &copy; E.I. Advantage -| Todos los derechos reservados</p>
+						<p>2017 &copy; E.I. Advantage -| Todos los derechos reservados.</p>
 					</div>
 				</div>
 			</div>
