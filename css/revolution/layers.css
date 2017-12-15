@@ -19,7 +19,6 @@ website:   	http://www.themepunch.com
 .tp-caption.Twitter-Content a:hover
 {
 	color:#0084B4!important;
-	text-decoration:underline!important;
 }
 
 .tp-caption.medium_grey,.medium_grey
@@ -3106,7 +3105,7 @@ website:   	http://www.themepunch.com
     }
     .tp-caption.Twitter-Content a:hover {
         color: #0084B4 !important;
-        text-decoration: underline !important
+
     }
     .tp-caption.Concept-Title,
     .Concept-Title {
@@ -3342,7 +3341,7 @@ website:   	http://www.themepunch.com
     }
     .tp-caption.Twitter-Content a:hover {
         color: #0084B4 !important;
-        text-decoration: underline !important
+
     }
     .tp-caption.Creative-Title,
     .Creative-Title {
@@ -4538,7 +4537,7 @@ tp-caption.Team-Thumb,
 .tp-caption.Twitter-Content a,
 .tp-caption.Twitter-Content a:visited {
     color: #fff !important;
-    text-decoration: underline !important;
+
 }
 .tp-caption.Twitter-Content a:hover {
     color: #fff !important;

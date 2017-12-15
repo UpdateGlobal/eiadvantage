@@ -457,26 +457,20 @@ Container
 }
 
 .green:hover {
-	background-color: #00a2ff;
-	box-shadow: #00a2ffd5;
+	background-color: #00a2ffd5;
+	box-shadow: 0px 5px 0px 0px #00a2ff;
 	border: none;
 }
 
 
 /* end da css for da buttons */
 
-.primary-bg a {
-	color: #fff;
-	text-decoration: underline;
-}
+
 
 .top-wrapper.primary-bg a {
 	text-decoration: none;
 }
 
-.top-wrapper.primary-bg a:hover {
-	text-decoration: underline;
-}
 
 .contain-wrapp {
 	display: block;
@@ -833,10 +827,6 @@ Container
 	color: #fff;
 }
 
-.half-column-wrapp.primary-bg a {
-	text-decoration: underline;
-}
-
 .half-column-wrapp.primary-bg .form-control {
 	background: none;
 	border: 1px solid rgba(255, 255, 255, 1);
@@ -1108,10 +1098,7 @@ Container
 	left: 0;
 }
 
-.content-boxed.primary-bg a {
-	color: #fff;
-	text-decoration: underline;
-}
+
 
 .content-boxed .title {
 	text-transform: uppercase;
@@ -5522,9 +5509,6 @@ aside ul.link-list li.dropdown ul.dropdown-menu li a,
 	padding-left: 0;
 }
 
-aside ul.link-list li.dropdown ul.dropdown-menu li a:hover {
-	text-decoration: underline;
-}
 
 .link-list li a span {
 	display: none;

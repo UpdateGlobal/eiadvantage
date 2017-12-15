@@ -64,7 +64,7 @@
 			<div class="row">
 
 				<div class="col-md-6">
-					<ul style="padding-top: 15px;padding-buttom: 15px;" class="right-link">
+					<ul style="padding-top: 15px;padding-buttom: 15px;text-decoration:none !important" class="right-link">
 						<li>
 							<a href="index-corporate-alt1.html#">Visita Nuestro Blog</a>
 						</li>
@@ -263,179 +263,8 @@
 							</li>
 						</ul>
 					</li>
-					<li class="dropdown megamenu-fw">
-						<a href="index-corporate-alt1.html#" class="dropdown-toggle" data-toggle="dropdown">Certificación</a>
-						<ul class="dropdown-menu megamenu-content" role="menu">
-							<li>
-								<div class="row">
-									<div class="col-menu col-md-3">
-										<h6 class="title">Interactive</h6>
-										<div class="content">
-											<ul class="menu-col">
-												<li>
-													<a href="call-to-action.html">
-														<i class="fa fa-microphone"></i> Call to action</a>
-												</li>
-												<li>
-													<a href="counter.html">
-														<i class="fa fa-pie-chart"></i> Counter</a>
-												</li>
-												<li>
-													<a href="maps.html">
-														<i class="fa fa-map-o"></i> Google maps</a>
-												</li>
-												<li>
-													<a href="media-responsive.html">
-														<i class="fa fa-film"></i> Media responsive</a>
-												</li>
-												<li>
-													<a href="modal.html">
-														<i class="fa fa-external-link"></i> Modal</a>
-												</li>
-												<li>
-													<a href="process.html">
-														<i class="fa fa-hourglass-1"></i> Process</a>
-												</li>
-												<li>
-													<a href="progress.html">
-														<i class="fa fa-server"></i> Progress bar</a>
-												</li>
-												<li>
-													<a href="pricing.html">
-														<i class="fa fa-shopping-bag"></i> Pricing</a>
-												</li>
-												<li>
-													<a href="team.html">
-														<i class="fa fa-users"></i> Team</a>
-												</li>
-												<li>
-													<a href="testimoni.html">
-														<i class="fa fa-comments"></i> Testimoni</a>
-												</li>
-											</ul>
-										</div>
-									</div>
-									<!-- end col-3 -->
-									<div class="col-menu col-md-3">
-										<h6 class="title">Elements</h6>
-										<div class="content">
-											<ul class="menu-col">
-												<li>
-													<a href="accordion.html">
-														<i class="fa fa-navicon"></i> Accordion</a>
-												</li>
-												<li>
-													<a href="alert.html">
-														<i class="fa fa-info-circle"></i> Alert</a>
-												</li>
-												<li>
-													<a href="button.html">
-														<i class="fa fa-download"></i> Button</a>
-												</li>
-												<li>
-													<a href="form.html">
-														<i class="fa fa-unlock-alt"></i> Form</a>
-												</li>
-												<li>
-													<a href="icon.html">
-														<i class="fa fa-flag"></i> Icons style</a>
-												</li>
-												<li>
-													<a href="icon-box.html">
-														<i class="fa fa-inbox"></i> Icons with box</a>
-												</li>
-												<li>
-													<a href="icon-text.html">
-														<i class="fa fa-star"></i> Icons with text</a>
-												</li>
-												<li>
-													<a href="images.html">
-														<i class="fa fa-image"></i> Images style</a>
-												</li>
-												<li>
-													<a href="pagination.html">
-														<i class="fa fa-sort-numeric-asc"></i> Pagination</a>
-												</li>
-												<li>
-													<a href="tab.html">
-														<i class="fa fa-tasks"></i> Tab style</a>
-												</li>
-											</ul>
-										</div>
-									</div>
-									<!-- end col-3 -->
-									<div class="col-menu col-md-3">
-										<h6 class="title">Typography & MLsc</h6>
-										<div class="content">
-											<ul class="menu-col">
-												<li>
-													<a href="typography.html">
-														<i class="fa fa-font"></i> Typography</a>
-												</li>
-												<li>
-													<a href="heading.html">
-														<i class="fa fa-header"></i> Heading</a>
-												</li>
-												<li>
-													<a href="blockquote.html">
-														<i class="fa fa-quote-left"></i> Blockquote</a>
-												</li>
-												<li>
-													<a href="columns.html">
-														<i class="fa fa-th"></i> Columns</a>
-												</li>
-												<li>
-													<a href="divider.html">
-														<i class="fa fa-file-text-o"></i> Separators</a>
-												</li>
-												<li>
-													<a href="dropcaps.html">
-														<i class="fa fa-th-list"></i> Dropcaps</a>
-												</li>
-												<li>
-													<a href="highlights.html">
-														<i class="fa fa-list-alt"></i> Highlights</a>
-												</li>
-												<li>
-													<a href="list.html">
-														<i class="fa fa-list-ol"></i> List style</a>
-												</li>
-											</ul>
-										</div>
-									</div>
-									<!-- end col-3 -->
-									<div class="col-menu col-md-3">
-										<h6 class="title">Speciality page</h6>
-										<div class="content">
-											<ul class="menu-col">
-												<li>
-													<a href="error404.html">
-														<i class="fa fa-warning"></i> Error 404</a>
-												</li>
-												<li>
-													<a href="maintenance.html">
-														<i class="fa fa-cogs"></i> Maintenance</a>
-												</li>
-												<li>
-													<a href="signin.html">
-														<i class="fa fa-sign-in"></i> Signin</a>
-												</li>
-												<li>
-													<a href="signup.html">
-														<i class="fa fa-sign-out"></i> Signin</a>
-												</li>
-												<li>
-													<a href="underconstruction.html">
-														<i class="fa fa-wrench"></i> Underconstruction</a>
-												</li>
-											</ul>
-										</div>
-									</div>
-									<!-- end col-3 -->
-								</div>
-								<!-- end row -->
-							</li>
-						</ul>
+					<li>
+						<a href="contact.html">Certificación</a>
 					</li>
 					<li class="dropdown">
 						<a href="index-corporate-alt1.html#" class="dropdown-toggle" data-toggle="dropdown">Evaluaciones</a>
@@ -568,7 +397,7 @@
 				</div>
 				<div class="col-sm-6 wow fadeInRightBig" data-animation-delay="200">
 					<img style="width: 150px;height: 95px;" src="img/logos/logo3.jpg" class="logo" alt="">
-					<p class="lead" style="text-align:justify;font-family: 'WorkSans-Light';">
+					<p class="lead" style="text-align:justify;font-family: 'WorkSans-Light'; padding-top:10px;">
 						Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 						Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
 						irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
