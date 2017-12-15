@@ -70,21 +70,7 @@ Main Components
   background-repeat: no-repeat;
   background-size: cover;
 }
-[data-animation="parallax"] .cd-section:first-of-type > div, [data-animation="fixed"] .cd-section:first-of-type > div, [data-animation="opacity"] .cd-section:first-of-type > div {
-  background-image: url("http://99webpage.com/theme-review/html/bacotna/img/img-1.jpg");
-}
-[data-animation="parallax"] .cd-section:nth-of-type(2) > div, [data-animation="fixed"] .cd-section:nth-of-type(2) > div, [data-animation="opacity"] .cd-section:nth-of-type(2) > div {
-  background-image: url("http://99webpage.com/theme-review/html/bacotna/img/img-2.jpg");
-}
-[data-animation="parallax"] .cd-section:nth-of-type(3) > div, [data-animation="fixed"] .cd-section:nth-of-type(3) > div, [data-animation="opacity"] .cd-section:nth-of-type(3) > div {
-  background-image: url("http://99webpage.com/theme-review/html/bacotna/img/img-3.jpg");
-}
-[data-animation="parallax"] .cd-section:nth-of-type(4) > div, [data-animation="fixed"] .cd-section:nth-of-type(4) > div, [data-animation="opacity"] .cd-section:nth-of-type(4) > div {
-  background-image: url("http://99webpage.com/theme-review/html/bacotna/img/img-4.jpg");
-}
-[data-animation="parallax"] .cd-section:nth-of-type(5) > div, [data-animation="fixed"] .cd-section:nth-of-type(5) > div, [data-animation="opacity"] .cd-section:nth-of-type(5) > div {
-  background-image: url("http://99webpage.com/theme-review/html/bacotna/img/img-5.jpg");
-}
+
 @media only screen and (min-width: 1050px) {
   .cd-section h2 {
     font-size: 4rem;

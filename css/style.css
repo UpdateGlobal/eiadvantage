@@ -1,12 +1,5 @@
 /* ==============================================================
 
-Template name : Bacotna multipurpose corporate business template
-Categorie : Site template
-Author : 99webpage
-Version : v1.0.0
-Created : 8 August  2017
-Last update : 9 October  2017
-
 -----------------------------------------------------------------
 CSS structure
 -----------------------------------------------------------------
@@ -443,7 +436,7 @@ Container
 .btn {
 	border-radius: 5px;
 	padding: 15px 25px;
-	font-size: 22px;
+	font-size: 16px;
 	text-decoration: none;
 	margin: 20px;
 	color: #fff;
@@ -464,8 +457,8 @@ Container
 }
 
 .green:hover {
-	background-color: #158e7cd0;
-	box-shadow: #158e7d;
+	background-color: #00a2ff;
+	box-shadow: #00a2ffd5;
 	border: none;
 }
 
@@ -1317,7 +1310,6 @@ Page scroller
 .page-title-wrapp.page-title .single-network .icon-circle:hover {
 	color: #fff;
 }
-
 .cd-vertical-nav {
 	margin: 0;
 	padding: 0;
@@ -9461,6 +9453,15 @@ Small device
 =========================== */
 
 @media (max-width:488px) {
+
+	.content-section-a {
+		padding: 5px 0;
+	}
+	
+	.content-section-b {
+		padding: 5px 0;
+	}
+
 	.top-wrapper.sm .right-link li {
 		margin: 0 20px 0 0;
 	}

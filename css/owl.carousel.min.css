@@ -16,10 +16,6 @@
     z-index: 1
 }
 
-.owl-stage{
-    transition: 1s !important;
-}
-
 .owl-carousel .owl-stage {
     position: relative;
     -ms-touch-action: pan-Y;
@@ -171,7 +167,7 @@
     top: 50%;
     margin-left: -40px;
     margin-top: -40px;
-    background: url("http://99webpage.com/theme-review/html/bacotna/css/owl.video.play.png") no-repeat;
+    background: url("css/owl.video.play.png") no-repeat;
     cursor: pointer;
     z-index: 1;
     -webkit-backface-visibility: hidden;

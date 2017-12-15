@@ -41,7 +41,7 @@
 				<div class="object" id="object_two"></div>
 				<div class="object" id="object_three"></div>
 			</div>
-			<p>Please wait...</p>
+			<p>Cargando...</p>
 		</div>
 	</div>
 	<!-- End preloading -->
@@ -521,7 +521,7 @@
 					    data-textAlign="['left','left','left','left']" data-whitespace="nowrap" data-type="text" data-fontsize="['36','18','14','12']"
 					    data-lineheight="['36','24','18','14']" data-paddingtop="[10,10,10,10]" data-paddingright="[10,10,10,10]" data-paddingbottom="[10,10,10,10]"
 					    data-paddingleft="[10,10,10,10]" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on"
-					    style="z-index: 5; font-weight:700;white-space: nowrap;font-family: 'WorkSans-Medium';">Negocios Innovadores
+					    style="z-index: 5; font-weight:700;white-space: nowrap;font-family: 'WorkSans-Medium';">Inteligencia Emocional
 					</div>
 
 					<!-- LAYER NR. 2 -->
@@ -530,7 +530,7 @@
 					    data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-textAlign="['left','left','left','left']"
 					    data-whitespace="normal" data-type="text" data-fontsize="['60','24','18','14']" data-lineheight="['32','24','18','14']"
 					    data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-					    data-start="1500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 5; ;white-space: normal;font-family: 'WorkSans-SemiBold';">Inteligencia Emocional
+					    data-start="1500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 5; ;white-space: normal;font-family: 'WorkSans-SemiBold';">Negocios Innovadores
 					</div>
 				</li>
 			</ul>
@@ -566,7 +566,7 @@
 				<div class="col-sm-6 wow fadeInLeftBig">
 					<img class="img-responsive img-rounded" src="img/courier/img01.jpg" alt="">
 				</div>
-				<div class="col-sm-6 wow fadeInLeftBig" data-animation-delay="200">
+				<div class="col-sm-6 wow fadeInRightBig" data-animation-delay="200">
 					<img style="width: 150px;height: 95px;" src="img/logos/logo3.jpg" class="logo" alt="">
 					<p class="lead" style="text-align:justify;font-family: 'WorkSans-Light';">
 						Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -599,7 +599,7 @@
 		<div class="container">
 			<div class="row margin-mintop80 marginbot60">
 				<div class="col-md-12">
-					<ul class="process-puzzle">
+					<ul class="process-puzzle wow fadeInDownBig" data-animation-delay="200">
 						<li>
 							<div class="puzzle-content default-bg">
 								<div class="puzzle-body">
@@ -1174,6 +1174,13 @@
 
 	<!-- Theme option-->
 	<script src="js/template-option/demosetting.js"></script>
+
+	<!-- Smoothscroll -->
+	<script src="js/wow.min.js"></script>
+	<script>
+		new WOW().init();
+	</script>
+
 </body>
 
 </html>

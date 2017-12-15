@@ -16,11 +16,11 @@ website:   	http://www.themepunch.com
 .rtl {	direction: rtl;}
 @font-face {
   font-family: 'revicons';
-  src: url('http://99webpage.com/theme-review/html/bacotna/fonts/revicons/revicons.eot?5510888');
-  src: url('http://99webpage.com/theme-review/html/bacotna/fonts/revicons/revicons.eot?5510888#iefix') format('embedded-opentype'),
-       url('http://99webpage.com/theme-review/html/bacotna/fonts/revicons/revicons.woff?5510888') format('woff'),
-       url('http://99webpage.com/theme-review/html/bacotna/fonts/revicons/revicons.ttf?5510888') format('truetype'),
-       url('http://99webpage.com/theme-review/html/bacotna/fonts/revicons/revicons.svg?5510888#revicons') format('svg');
+  src: url('fonts/revicons/revicons.eot?5510888');
+  src: url('fonts/revicons/revicons.eot?5510888#iefix') format('embedded-opentype'),
+       url('fonts/revicons/revicons.woff?5510888') format('woff'),
+       url('fonts/revicons/revicons.ttf?5510888') format('truetype'),
+       url('fonts/revicons/revicons.svg?5510888#revicons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -212,10 +212,10 @@ website:   	http://www.themepunch.com
 	
 /* CAROUSEL FUNCTIONS */
 .tp-carousel-wrapper {
-	cursor:url("http://99webpage.com/theme-review/html/bacotna/css/revolution/openhand.cur"), move;
+	cursor:url("css/revolution/openhand.cur"), move;
 }
 .tp-carousel-wrapper.dragged {
-	cursor:url("http://99webpage.com/theme-review/html/bacotna/css/revolution/closedhand.cur"), move;
+	cursor:url("css/revolution/closedhand.cur"), move;
 }
 
 /* ADDED FOR SLIDELINK MANAGEMENT */
@@ -501,10 +501,10 @@ img.tp-slider-alternative-image	{
 	-	DOTTED OVERLAYS	-
 *********************************/
 .tp-dottedoverlay						{	background-repeat:repeat;width:100%;height:100%;position:absolute;top:0px;left:0px;z-index:3}
-.tp-dottedoverlay.twoxtwo				{	background:url("http://99webpage.com/theme-review/html/bacotna/css/assets/gridtile.png")}
-.tp-dottedoverlay.twoxtwowhite			{	background:url("http://99webpage.com/theme-review/html/bacotna/css/assets/gridtile_white.png")}
-.tp-dottedoverlay.threexthree			{	background:url("http://99webpage.com/theme-review/html/bacotna/css/assets/gridtile_3x3.png")}
-.tp-dottedoverlay.threexthreewhite		{	background:url("http://99webpage.com/theme-review/html/bacotna/css/assets/gridtile_3x3_white.png")}
+.tp-dottedoverlay.twoxtwo				{	background:url("css/assets/gridtile.png")}
+.tp-dottedoverlay.twoxtwowhite			{	background:url("css/assets/gridtile_white.png")}
+.tp-dottedoverlay.threexthree			{	background:url("css/assets/gridtile_3x3.png")}
+.tp-dottedoverlay.threexthreewhite		{	background:url("css/assets/gridtile_3x3_white.png")}
 
 
 /******************************
@@ -896,7 +896,7 @@ img.tp-slider-alternative-image	{
 /************************************
 -	TP BANNER TIMER		-
 *************************************/
-.tp-bannertimer								{	visibility: hidden; width:100%; height:5px; /*background:url("http://99webpage.com/theme-review/html/bacotna/css/assets/timer.png");*/ background: #fff; background: rgba(0,0,0,0.15); position:absolute; z-index:200; top:0px}
+.tp-bannertimer								{	visibility: hidden; width:100%; height:5px; /*background:url("css/assets/timer.png");*/ background: #fff; background: rgba(0,0,0,0.15); position:absolute; z-index:200; top:0px}
 .tp-bannertimer.tp-bottom					{	top:auto; bottom:0px !important;height:5px}
 
 
@@ -922,8 +922,8 @@ img.tp-slider-alternative-image	{
 
 /*  CAPTION SLIDELINK   **/
 .caption.slidelink a div,
-.tp-caption.slidelink a div {	width:3000px; height:1500px;  background:url("http://99webpage.com/theme-review/html/bacotna/css/assets/coloredbg.png") repeat}
-.tp-caption.slidelink a span{	background:url("http://99webpage.com/theme-review/html/bacotna/css/assets/coloredbg.png") repeat}
+.tp-caption.slidelink a div {	width:3000px; height:1500px;  background:url("css/assets/coloredbg.png") repeat}
+.tp-caption.slidelink a span{	background:url("css/assets/coloredbg.png") repeat}
 .tp-shape {	width:100%;height:100%;}
 
 
@@ -1005,7 +1005,6 @@ img.tp-slider-alternative-image	{
 	width: 40px;
 	height: 40px;
 	background-color: #2b2b2b;
-	background:url("http://99webpage.com/theme-review/html/bacotna/img/loader.gif") no-repeat center center;
 	margin-top:-20px;
 	margin-left:-20px;
 	-webkit-animation: tp-rotateplane 1.2s infinite ease-in-out;
@@ -1034,7 +1033,6 @@ img.tp-slider-alternative-image	{
 
 
 .tp-loader.spinner5 	{	
-	background:url("http://99webpage.com/theme-review/html/bacotna/css/assets/loader.gif") no-repeat 10px 10px;
 	background-color:#fff;
 	margin:-22px -22px;
 	width:44px;height:44px;
