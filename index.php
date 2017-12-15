@@ -47,11 +47,38 @@
 	<!-- End preloading -->
 
 	<!-- Start top section -->
+
+
 	<div class="top-wrapper unborder sm top-gray">
 		<div class="container">
+			<!-- Start Header Navigation -->
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+					<i class="fa fa-bars"></i>
+				</button>
+				<a class="navbar-brand" href="index.php">
+					<img src="img/logos/logo1.png" class="logo" alt="">
+				</a>
+			</div>
+			<!-- End Header Navigation -->
 			<div class="row">
+
 				<div class="col-md-6">
-					<ul class="right-link" class="top-social-network">
+					<ul style="padding-top: 15px;padding-buttom: 15px;" class="right-link">
+						<li>
+							<a href="index-corporate-alt1.html#">Visita Nuestro Blog</a>
+						</li>
+						<li>
+							<a href="index-corporate-alt1.html#">Registro Webinar</a>
+						</li>
+						<li>
+							<a href="index-corporate-alt1.html#">Proximas Certificaciones</a>
+						</li>
+					</ul>
+				</div>
+
+				<div class="col-md-3">
+					<ul style="padding-top: 15px;padding-buttom: 15px;" class="right-link" class="top-social-network">
 						<li>
 							<a href="index-corporate-alt1.html#">
 								<i class="fa fa-facebook"></i>
@@ -67,19 +94,10 @@
 								<i class="fa fa-twitter"></i>
 							</a>
 						</li>
-					</ul>
-				</div>
-
-				<div class="col-md-6">
-					<ul class="right-link">
 						<li>
-							<a href="index-corporate-alt1.html#">Visita Nuestro Blog</a>
-						</li>
-						<li>
-							<a href="index-corporate-alt1.html#">Registro Webinar</a>
-						</li>
-						<li>
-							<a href="index-corporate-alt1.html#">Proximas Certificaciones</a>
+							<a href="index-corporate-alt1.html#">
+								<i class="fa fa-linkedin"></i>
+							</a>
 						</li>
 					</ul>
 				</div>
@@ -111,20 +129,9 @@
 
 		<div class="container">
 
-			<!-- Start Header Navigation -->
-			<div class="navbar-header">
-				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
-					<i class="fa fa-bars"></i>
-				</button>
-				<a class="navbar-brand" href="index.php">
-					<img src="img/logos/logo1.png" class="logo" alt="">
-				</a>
-			</div>
-			<!-- End Header Navigation -->
-
 			<!-- Collect the nav links, forms, and other content for toggling -->
 			<div class="collapse navbar-collapse" id="navbar-menu">
-				<ul class="nav navbar-nav navbar-right" data-in="fadeInDown" data-out="fadeOutUp">
+				<ul class="nav navbar-nav navbar-right" style="width: 1300px;" data-in="fadeInDown" data-out="fadeOutUp">
 					<li class="active">
 						<a href="index-corporate-alt1.html#">Nosotros</a>
 					</li>
@@ -481,6 +488,30 @@
 				<li data-transition="slideremoveright">
 					<!-- MAIN IMAGE -->
 					<img src="img/slider/slide04.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10"
+					    class="rev-slidebg" data-no-retina>
+
+					<!-- LAYER NR. 1 -->
+					<div class="tp-caption cap-boxed Bgtransparent-primary" id="slide-1-layer-1" data-x="left" data-hoffset="['60','60','60','20']"
+					    data-y="top" data-voffset="['200','175','135','65']" data-width="['auto','auto','auto','auto']" data-height="['auto','auto','auto','auto']"
+					    data-transform_idle="o:1;" data-transform_in="x:-50px;opacity:0;s:2000;e:Power3.easeOut;" data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;"
+					    data-textAlign="['left','left','left','left']" data-whitespace="nowrap" data-type="text" data-fontsize="['36','18','14','12']"
+					    data-lineheight="['36','24','18','14']" data-paddingtop="[10,10,10,10]" data-paddingright="[10,10,10,10]" data-paddingbottom="[10,10,10,10]"
+					    data-paddingleft="[10,10,10,10]" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on"
+					    style="z-index: 5; font-weight:700;white-space: nowrap;font-family: 'WorkSans-Medium';">Negocios Innovadores
+					</div>
+
+					<!-- LAYER NR. 2 -->
+					<div class="tp-caption white-text" id="slide-1-layer-2" data-x="left" data-hoffset="['60','60','60','20']" data-y="top" data-voffset="['260','225','180','105']"
+					    data-width="['780','630','430','350']" data-height="['auto','auto','auto','auto']" data-transform_idle="o:1;" data-transform_in="x:-50px;opacity:0;s:2000;e:Power3.easeOut;"
+					    data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-textAlign="['left','left','left','left']"
+					    data-whitespace="normal" data-type="text" data-fontsize="['60','24','18','14']" data-lineheight="['32','24','18','14']"
+					    data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
+					    data-start="1500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 5; ;white-space: normal;font-family: 'WorkSans-SemiBold';">Inteligencia Emocional
+					</div>
+				</li>
+				<li data-transition="slideremoveright">
+					<!-- MAIN IMAGE -->
+					<img src="img/slider/slide05.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10"
 					    class="rev-slidebg" data-no-retina>
 
 					<!-- LAYER NR. 1 -->
@@ -951,10 +982,9 @@
 			<div class="row">
 				<div class="col-md-3">
 					<div class="widget">
-						<img src="img/logos/logo1.png" class="logo-footer" alt="" />
+						<img src="img/logos/logo.png" class="logo-footer" alt="" />
 						<p>
-							Nibh scriptorem ei pri, ei tation timeam nominati mei. Sit ex audire habemus, soleat fastidii deterruisset nam no. Graece
-							admodum postulant cu sed, mel ei voluptua iracundia. Vis an platonem persecuti, at vel laoreet fuisset invenire.
+							Nibh scriptorem ei pri, ei tation timeam nominati mei. Sit ex audire habemus, soleat fastidii deterruisset nam no.
 						</p>
 					</div>
 				</div>

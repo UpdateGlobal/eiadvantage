@@ -221,7 +221,7 @@ ul.cat li a:hover,
 article.post h4 a:hover,
 article.post h5 a:hover,
 .recent-widget h6 a:hover{
-	color:#15bba4;
+	color: #00a2ff;
 }
 
 /*
@@ -483,7 +483,7 @@ footer.sm-footer .widget .network:hover .icon-circle,
 .grider a:hover,
 .flex-control-thumbs .flex-active,
 .flex-control-thumbs img:hover{
-	border-color:#15bba4;
+	border-color: #00a2ff;
 }
 
 .prettyprint,

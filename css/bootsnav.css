@@ -81,7 +81,7 @@ nav.navbar.bordered-link.bootsnav .nav.navbar-nav.navbar-left{
 }
 
 nav.navbar.bootsnav ul.nav > li > a{
-    color: white;
+    color: black;
     background-color: transparent;
     outline: none;
     margin-bottom: -2px;
@@ -653,9 +653,9 @@ nav.navbar-sticky.bootsnav .navbar-header.hidden-header{
 .wrap-sticky nav.navbar.bootsnav{
     position: absolute;
     width: 100%;
-    left: 0;
+    /* left: 0; */
     top: 0;
-    background-color: #223c71;
+    background-color: #ffffff;
 }
 
 .wrap-sticky nav.navbar.bootsnav.sticked{

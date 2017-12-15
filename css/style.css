@@ -235,7 +235,7 @@ header .top-social-network li a {
 }
 
 .right-link li a {
-	color: #9e9e9e;
+	color: white;
 }
 
 .right-link.sign-link li {
@@ -378,7 +378,7 @@ nav.navbar.navbar-inverse.bootsnav .right-link.sign-link li a.signup:focus {
 }
 
 .top-wrapper.top-gray {
-	background: #ffffff;
+	background: #223c71;
 	border-bottom: 1px solid #e6e8e8;
 }
 
