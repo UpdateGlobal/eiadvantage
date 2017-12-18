@@ -822,25 +822,25 @@
 						<div class="col-md-3 col-sm-6">
 							<div class="widget">
 								<h5>
-									<span>Eiadvantage</span> services</h5>
+									<span>Eiadvantage</span> Servicios</h5>
 								<ul class="link-list full">
 									<li>
-										<a href="index-corporate-alt14.html#">About us</a>
+										<a href="index-corporate-alt14.html#">Lorem ipsum</a>
 									</li>
 									<li>
-										<a href="index-corporate-alt14.html#">Our services</a>
+										<a href="index-corporate-alt14.html#">Lorem ipsum</a>
 									</li>
 									<li>
-										<a href="index-corporate-alt14.html#">Help Center</a>
+										<a href="index-corporate-alt14.html#">Lorem ipsum</a>
 									</li>
 									<li>
-										<a href="index-corporate-alt14.html#">Item support</a>
+										<a href="index-corporate-alt14.html#">Lorem ipsum</a>
 									</li>
 									<li>
-										<a href="index-corporate-alt14.html#">Blog</a>
+										<a href="index-corporate-alt14.html#">Lorem ipsum</a>
 									</li>
 									<li>
-										<a href="index-corporate-alt14.html#">Meet our team</a>
+										<a href="index-corporate-alt14.html#">Lorem ipsum</a>
 									</li>
 								</ul>
 							</div>
@@ -848,25 +848,25 @@
 						<div class="col-md-3 col-sm-6">
 							<div class="widget">
 								<h5>
-									<span>Our</span> information</h5>
+									<span>Nuestra</span> Información</h5>
 								<ul class="link-list full">
 									<li>
-										<a href="index-corporate-alt14.html#">F.A.Q</a>
+										<a href="index-corporate-alt14.html#">Lorem ipsum</a>
 									</li>
 									<li>
-										<a href="index-corporate-alt14.html#">Terms & Conditions</a>
+										<a href="index-corporate-alt14.html#">Lorem ipsum</a>
 									</li>
 									<li>
-										<a href="index-corporate-alt14.html#">Privacy Policy</a>
+										<a href="index-corporate-alt14.html#">Lorem ipsum</a>
 									</li>
 									<li>
-										<a href="index-corporate-alt14.html#">Careers</a>
+										<a href="index-corporate-alt14.html#">Lorem ipsum</a>
 									</li>
 									<li>
-										<a href="index-corporate-alt14.html#">Community</a>
+										<a href="index-corporate-alt14.html#">Lorem ipsum</a>
 									</li>
 									<li>
-										<a href="index-corporate-alt14.html#">Forum</a>
+										<a href="index-corporate-alt14.html#">Lorem ipsum</a>
 									</li>
 								</ul>
 							</div>
@@ -874,22 +874,22 @@
 						<div class="col-md-3 col-sm-6">
 							<div class="widget">
 								<h5>
-									<span>Get in</span> touch</h5>
+									<span>Encuentranos</span> En</h5>
 								<ul class="office-contact">
 									<li>
 										<i class="fa fa-home"></i>
-										<h6>Address :</h6>
-										JL.Kemacentan selatan No.13 Block.Q2 Jakarta Indonesia
+										<h6>Dirección :</h6>
+										Lorem ipsum dolor sit amet
 									</li>
 									<li>
 										<i class="fa fa-phone"></i>
-										<h6>Phone :</h6>
-										(021) 1234 567 890
+										<h6>Telefono :</h6>
+										(051) 1234 567 890
 									</li>
 									<li>
 										<i class="fa fa-envelope"></i>
-										<h6>Emali :</h6>
-										info@yourdomain.com
+										<h6>Email :</h6>
+										info@update.com
 									</li>
 								</ul>
 							</div>
