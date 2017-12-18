@@ -2,7 +2,7 @@
 <!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
 <!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
 <!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
-<html class="no-js" lang="en">
+<html class="no-js" lang="es">
 
 <head>
 	<meta charset="utf-8">
@@ -64,15 +64,15 @@
 			<div class="row">
 
 				<div class="col-md-6">
-					<ul style="padding-top: 15px;padding-buttom: 15px;text-decoration:none !important" class="right-link">
+					<ul style="padding-top: 15px;padding-buttom: 15px;" class="right-link">
 						<li>
-							<a href="index-corporate-alt1.html#">Visita Nuestro Blog</a>
+							<a href="index-corporate-alt1.html#">Visita Nuestro Blog |</a>
 						</li>
 						<li>
-							<a href="index-corporate-alt1.html#">Registro Webinar</a>
+							<a href="index-corporate-alt1.html#">Registro Webinar |</a>
 						</li>
 						<li>
-							<a href="index-corporate-alt1.html#">Proximas Certificaciones</a>
+							<a href="index-corporate-alt1.html#">Proximas Certificaciones |</a>
 						</li>
 					</ul>
 				</div>
@@ -131,7 +131,7 @@
 
 			<!-- Collect the nav links, forms, and other content for toggling -->
 			<div class="collapse navbar-collapse" id="navbar-menu">
-				<ul class="nav navbar-nav navbar-right" style="width: 1300px;" data-in="fadeInDown" data-out="fadeOutUp">
+				<ul class="nav navbar-nav navbar-right" style="width: 1300px;padding-left: 60px;" data-in="fadeInDown" data-out="fadeOutUp">
 					<li class="active">
 						<a href="index-corporate-alt1.html#">Nosotros</a>
 					</li>

@@ -284,7 +284,6 @@ li.close-full-menu{
 /* Atribute Navigation
 =================================*/
 .attr-nav{
-    float: right;
     display: inline-block;
     margin-left: 15px;
     margin-right: -15px;
@@ -694,7 +693,7 @@ body.on-side .wrap-sticky nav.navbar.bootsnav.sticked{
     =================================*/
     nav.navbar.bootsnav ul.nav .dropdown-menu .dropdown-menu{
         margin-top: 2px;
-		font-size:13px;
+		font-size:11px;
     }
 
     nav.navbar.bootsnav ul.nav.navbar-right .dropdown-menu .dropdown-menu{
@@ -786,7 +785,7 @@ body.on-side .wrap-sticky nav.navbar.bootsnav.sticked{
     nav.navbar.bootsnav ul.nav > li.dropdown > a.dropdown-toggle:after{
         font-family: 'FontAwesome';
         content: "\f0d7";
-        margin-left: 5px;
+        margin-left: 2px;
         margin-top: 2px;
     }
     
@@ -803,7 +802,7 @@ body.on-side .wrap-sticky nav.navbar.bootsnav.sticked{
         width: 200px;
         background: #f8fafb;
         border: solid 1px #e0e0e0;
-		font-size:13px;
+        font-size: 11px;
     }
     
     nav.navbar.bootsnav li.dropdown ul.dropdown-menu > li a:hover,
@@ -1309,7 +1308,6 @@ body.on-side .wrap-sticky nav.navbar.bootsnav.sticked{
 
     nav.navbar.bootsnav .navbar-toggle {
         display: inline-block;
-        float: left;
         margin-right: -200px;
         margin-top: 10px;
     }
@@ -1600,7 +1598,6 @@ body.on-side .wrap-sticky nav.navbar.bootsnav.sticked{
     
     nav.bootsnav.navbar-full .navbar-toggle {
         display: inline-block;
-        float: right;
         margin: 0;
 		padding:0;
     }
@@ -1629,7 +1626,7 @@ body.on-side .wrap-sticky nav.navbar.bootsnav.sticked{
     /* Tabs
     =================================*/ 
     nav.navbar.bootsnav .megamenu-content.tabbed{
-        padding-left: 0 !mportant;
+        padding-left: 0 !important;
     }
     
     nav.navbar.bootsnav .tabbed > li{
@@ -2042,7 +2039,7 @@ nav.navbar.navbar-inverse.bootsnav.navbar-full .navbar-collapse .wrap-full-menu{
 		border-left:none;
 		border-right:none;
 	}
-	nav.navbar.navbar-inverse.bootsnav li.dropdown.on > a.dropdown-toggle:before.
+
 	nav.navbar.navbar-inverse.bootsnav .dropdown .megamenu-content .col-menu .title:before{
 		color:#fcfcfc;
 	}
