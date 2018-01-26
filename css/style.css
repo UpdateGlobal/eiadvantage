@@ -232,7 +232,7 @@ header .top-social-network li a{
 }
 
 .right-link li a{
-	color:#9e9e9e;
+	color:#ffffff;
 }
 
 .right-link.sign-link li{
@@ -409,7 +409,7 @@ header.dark-bg .top-social-network li a{
 Container
 =========================== */
 .content-section-a {
-    background-color: #f8f8f8;
+    background-color: #ffffff;
     padding: 90px 0;
 }
 
@@ -1377,12 +1377,12 @@ Page scroller
 Revolution slider
 =========================== */
 .cap-boxed{
-	background:#2f343a;
+	background-color: #22253475;
 	color:#fff;
 }
 
 .cap-boxed.secondary-bg{
-	background:#484c50;
+background-color: #22253475;
 }
 
 .Bgtransparent-default{

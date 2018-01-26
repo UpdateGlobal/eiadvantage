@@ -3,7 +3,7 @@ $(document).ready(function() {
 		loop: true,
 		margin: 0,
 		autoplay: true,
-		autoplayTimeout: 12000,
+		autoplayTimeout: 3000,
 		smartSpeed: 1000,
 		responsiveClass: true,
 		items: 1,
@@ -26,7 +26,7 @@ $(document).ready(function() {
 		loop: true,
 		margin: 20,
 		autoplay: true,
-		autoplayTimeout: 14000,
+		autoplayTimeout: 3000,
 		smartSpeed: 1000,
 		responsiveClass: true,
 		responsive: {
@@ -54,7 +54,7 @@ $(document).ready(function() {
 				items: 2,
 				nav: true,
 				dots: false,
-				loop: false,
+				loop: true,
 				margin: 20
 			}
 		}
@@ -63,7 +63,7 @@ $(document).ready(function() {
 		loop: true,
 		margin: 20,
 		autoplay: true,
-		autoplayTimeout: 14000,
+		autoplayTimeout: 3000,
 		smartSpeed: 1000,
 		responsiveClass: true,
 		responsive: {
@@ -91,7 +91,7 @@ $(document).ready(function() {
 				items: 4,
 				nav: true,
 				dots: false,
-				loop: false,
+				loop: true,
 				margin: 20
 			}
 		}

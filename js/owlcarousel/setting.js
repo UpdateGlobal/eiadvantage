@@ -3,7 +3,7 @@ $(document).ready(function() {
 		loop: true,
 		margin: 30,
 		autoplay: true,
-		autoplayTimeout: 8000,
+		autoplayTimeout: 3000,
 		smartSpeed: 1000,
 		responsiveClass: true,
 		responsive: {
@@ -31,7 +31,7 @@ $(document).ready(function() {
 				items: 4,
 				nav: true,
 				dots: false,
-				loop: false,
+				loop: true,
 				margin: 30
 			}
 		}
@@ -40,7 +40,7 @@ $(document).ready(function() {
 		loop: true,
 		margin: 30,
 		autoplay: true,
-		autoplayTimeout: 11000,
+		autoplayTimeout: 3000,
 		smartSpeed: 1000,
 		responsiveClass: true,
 		responsive: {
@@ -68,7 +68,7 @@ $(document).ready(function() {
 				items: 3,
 				nav: true,
 				dots: false,
-				loop: false,
+				loop: true,
 				margin: 30
 			}
 		}
@@ -78,7 +78,7 @@ $(document).ready(function() {
 		items: 1,
 		margin: 0,
 		autoplay: true,
-		autoplayTimeout: 11000,
+		autoplayTimeout: 3000,
 		smartSpeed: 1000,
 		responsiveClass: true,
 		responsive: {
@@ -106,7 +106,7 @@ $(document).ready(function() {
 				items: 1,
 				nav: true,
 				dots: false,
-				loop: false,
+				loop: true,
 				margin: 0
 			}
 		}
@@ -115,7 +115,7 @@ $(document).ready(function() {
 		loop: true,
 		margin: 0,
 		autoplay: true,
-		autoplayTimeout: 11000,
+		autoplayTimeout: 3000,
 		smartSpeed: 1000,
 		responsiveClass: true,
 		responsive: {
@@ -143,7 +143,7 @@ $(document).ready(function() {
 				items: 4,
 				nav: false,
 				dots: false,
-				loop: false,
+				loop: true,
 				margin: 0
 			}
 		}
@@ -152,7 +152,7 @@ $(document).ready(function() {
 		loop: true,
 		margin: 0,
 		autoplay: true,
-		autoplayTimeout: 11000,
+		autoplayTimeout: 3000,
 		smartSpeed: 1000,
 		responsiveClass: true,
 		responsive: {
@@ -177,10 +177,10 @@ $(document).ready(function() {
 				dots: false,
 			},
 			1199: {
-				items: 3,
+				items: 4,
 				nav: true,
 				dots: false,
-				loop: false,
+				loop: true,
 				margin: 0
 			}
 		}
@@ -214,7 +214,7 @@ $(document).ready(function() {
 				items: 6,
 				nav: true,
 				dots: false,
-				loop: false,
+				loop: true,
 				margin: 30
 			}
 		}
@@ -315,7 +315,7 @@ $(document).ready(function() {
 		loop: true,
 		margin: 20,
 		autoplay: true,
-		autoplayTimeout: 8000,
+		autoplayTimeout: 3000,
 		smartSpeed: 1000,
 		responsiveClass: true,
 		responsive: {
@@ -343,7 +343,7 @@ $(document).ready(function() {
 				items: 4,
 				nav: true,
 				dots: false,
-				loop: false,
+				loop: true,
 				margin: 20
 			}
 		}
@@ -352,7 +352,7 @@ $(document).ready(function() {
 		loop: true,
 		margin: 20,
 		autoplay: true,
-		autoplayTimeout: 8000,
+		autoplayTimeout: 3000,
 		smartSpeed: 1000,
 		responsiveClass: true,
 		responsive: {
@@ -380,9 +380,47 @@ $(document).ready(function() {
 				items: 2,
 				nav: true,
 				dots: false,
-				loop: false,
+				loop: true,
 				margin: 20
 			}
 		}
 	});
 })
+
+$('.fullwidth-column2').owlCarousel({
+		loop: true,
+		margin: 0,
+		autoplay: true,
+		autoplayTimeout: 2000,
+		smartSpeed: 2000,
+		responsiveClass: true,
+		responsive: {
+			0: {
+				items: 1,
+				nav: true,
+				dots: false,
+			},
+			767: {
+				items: 2,
+				nav: true,
+				dots: false,
+			},
+			920: {
+				items: 2,
+				nav: true,
+				dots: false,
+			},
+			979: {
+				items: 3,
+				nav: true,
+				dots: false,
+			},
+			1199: {
+				items: 5,
+				nav: true,
+				dots: false,
+				loop: true,
+				margin: 0
+			}
+		}
+	});
